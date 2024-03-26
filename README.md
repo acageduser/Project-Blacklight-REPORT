@@ -14,5 +14,3 @@ But it's not just about pointing fingers. The project also turns the spotlight o
 By dissecting the privacy practices of big names like Coca-Cola, Microsoft, and Tesla, the project serves as a reality check on how even the most trusted brands manage our data. It's a wakeup call to users and a challenge to companies to prioritize user privacy over profit.
 
 In conclusion, Project Blacklight isn't just a school assignment. It's a mission to demystify the complex web of online surveillance and reclaim privacy in our digital world. It's a testament to the power of transparency and the right to privacy in the internet era, serving as both a warning and a guide for navigating the digital landscape with our eyes wide open.
-
-
