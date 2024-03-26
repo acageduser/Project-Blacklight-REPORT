@@ -1,6 +1,8 @@
 # ProjectBlacklight
 Security Audit of Website REPORT
 
+https://themarkup.org/blacklight
+
 Project Blacklight is a deep dive into the unseen tactics websites use to keep tabs on us, crafted by the hands-on research and investigative efforts of students. It's about unmasking the covert operations lurking behind web pages we visit daily, using Blacklight—a tool designed to sniff out how these sites track every move we make online without our nod of approval. The goal? To pull back the curtain on the digital watchers and give power back to the people, letting us see exactly who's watching us and how.
 
 In essence, the project is a call to arms for digital privacy, empowering users with knowledge about the secret surveillance mechanisms embedded in websites. Blacklight, the star of this show, is not just a tool; it's a revelation. It unveils the trackers and cookies that shadow our every click and scroll, the unseen scripts that report back on our online behavior, and the invisible watchers that record our every digital footprint.
