@@ -4,6 +4,30 @@
 
 Project Blacklight conducts a detailed security audit on popular websites to uncover how they track users without consent. Utilizing the Blacklight tool, the project provides a quantitative analysis of tracking mechanisms.
 
+#
+# Key Skills Demonstrated
+
+### Technical Skills
+- **Web Analysis:** Utilized the Blacklight tool to analyze and report on tracking technologies across multiple major websites.
+- **Data Interpretation:** Interpreted complex data sets to understand and summarize the presence and implications of web tracking technologies.
+### Research Skills
+- **Investigative Techniques:** Conducted thorough research into the privacy policies and tracker functionalities of major corporate websites.
+- **Critical Analysis:** Evaluated the data privacy practices of different websites based on evidence from Blacklight scans.
+### Communication Skills
+- **Documentation:** Prepared detailed, clear, and easy to understand documentation of technical and investigative findings.
+- **Presentation:** Developed materials to effectively communicate complex information in accessible formats.
+### Technical Writing
+- **Report Writing:** Crafted reports detailing the findings from web privacy inspections, focusing on clarity.
+- **Policy Analysis:** Examined and interpreted web application security policies in relation to observed data collection practices.
+### Software and Tools
+- **Blacklight:** Proficient in using this real-time website privacy inspection tool.
+- **Markdown:** Utilized Markdown for effective documentation and presentation of project findings on GitHub.
+
+This project is intended for educational purposes only.
+#
+#
+
+
 ## Goals
 
 - **Transparency:** Expose hidden tracking mechanisms on websites.
